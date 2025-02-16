@@ -1,0 +1,45 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Gradle build files
+/build/
+.gradle/
+out/
+
+# Dependency caches
+.gradle/
+build/
+target/
+
+# JAR/WAR/EAR files
+*.jar
+*.war
+*.ear
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+*.~*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated files
+bin/
+gen/
+logs/
